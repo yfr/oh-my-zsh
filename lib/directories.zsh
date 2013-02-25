@@ -48,6 +48,6 @@ alias ll='ll1'
 function mcd() { 
   mkdir -p "$1" && cd "$1"; 
 }
-=======
+
 alias d='dirs -v | head -10'
 
